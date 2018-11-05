@@ -1,0 +1,33 @@
+body{
+	color:black;
+	background:url(http://mentalmars.com/wp-content/uploads/2014/12/Hyperion_Wallpaper_-_Logo_-_Preview-800x450.jpg);
+	background-attachment:fixed;
+	font-family: Aharoni;
+}
+h1{
+	background: #F3F781;
+}
+p{
+	background:#F3F781;
+	border: 1px solid black;
+	padding: 20px;
+}
+ul{
+	background:#F3F781;
+	border: 1px solid black;
+	padding: 20px;
+}
+table{
+	background:#F3F781;
+border: 1px solid black;
+	padding: 20px;
+cursor: crosshair;
+}
+.select{
+	font-weight: 600;
+	text-decoration: underline;
+}
+.select1{
+	word-spacing: 30px;
+	text-decoration: line-through;
+}
